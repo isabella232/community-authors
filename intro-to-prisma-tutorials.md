@@ -30,7 +30,7 @@ The tone of the tutorials should be straightforward, approachable, and friendly.
 
 There are three kinds of tutorials that we hope to publish in the Community:
 
-###Procedural
+### Procedural
 
 Procedurals are tutorials that walk an individual through accomplishing a certain specific task. For example, “How to deploy a Prisma server to EC2.”
 
