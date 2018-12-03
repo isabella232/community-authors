@@ -2,7 +2,7 @@
 
 Prisma tutorials use MDX formatting. MDX adds a wide range of additional functionality on top of regular Markdown. All normal markdown works within MDX.
 
-You can find a page with an example of Prisma MDX components [here](https://www.prisma.io/docs/prisma-cli-and-configuration/test-article-as9j).
+You can find a page with an example of Prisma MDX components [here](https://www.prisma.io/docs/1.19/prisma-cli-and-configuration/test-article-as9j/).
 
 ### Headers
 
