@@ -6,7 +6,6 @@
 
 - Introduction to ORMs
 - Considerations when choosing an ORM
-- ORM comparison
 
 **Using Prisma**
 
