@@ -36,7 +36,7 @@ Procedurals are tutorials that walk an individual through accomplishing a certai
 
 These tutorials should be language specific, self-contained, and always leave the reader with some sort of finished product (for example an app that does what was described).
 
-All concepts mentioned throughout the tutorial should be explained thoroughly, as if the reader has very little background knowledge of the subject. However, explanations should be brief. If you find that you repeatedly need to spend a long time explaining concepts throughout the tutorial, itt may indicate a need for a conceptual tutorial that offers some background on the subject.
+All concepts mentioned throughout the tutorial should be explained thoroughly, as if the reader has very little background knowledge of the subject. However, explanations should be brief. If you find that you repeatedly need to spend a long time explaining concepts throughout the tutorial, it may indicate a need for a conceptual tutorial that offers some background on the subject.
 
 ### Conceptual
 
