@@ -11,7 +11,7 @@
 
 - How to build a REST API with Prisma.
 - How to connect Prisma to an existing Postgres database
-- How to build a Realtime GraphQL server with subscriptions (using Prisma client)**\*NEW**
+- How to build a Realtime GraphQL server with subscriptions (using Prisma client)
 
 **REST APIs**
 
@@ -22,7 +22,7 @@
 
 **GraphQL**
 
-- An introduction to GraphQL authentication specifics (for REST developers — who know they want to use GraphQL
+- An introduction to GraphQL authentication specifics 
 - How to implement authentication in your GraphQL API with Apollo Server, Typescript
 - GraphQL Authentication Patterns
 - GraphQL Authorization Basics
