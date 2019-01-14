@@ -22,7 +22,7 @@
 
 **GraphQL**
 
-- An introduction to GraphQL authentication specifics 
+- An introduction to GraphQL authentication
 - How to implement authentication in your GraphQL API with Apollo Server, Typescript
 - GraphQL Authentication Patterns
 - GraphQL Authorization Basics
