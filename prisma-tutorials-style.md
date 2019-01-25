@@ -1,6 +1,6 @@
 # Tutorial Style
 
-Prisma Articles seek to educate the reader above all. In order to keep articles consistent across the site, we have developed a number of style, content, and formatting guidelines. A reader should be able to switch seamlessly between various Prisma tutorials and find the same characteristics, regardless of the author or topic.
+Prisma tutorials seek to educate the reader above all. In order to keep articles consistent across the site, we have developed a number of style, content, and formatting guidelines. A reader should be able to switch seamlessly between various Prisma tutorials and find the same characteristics, regardless of the author or topic.
 
 ### Detailed
 
