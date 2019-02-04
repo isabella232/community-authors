@@ -7,9 +7,11 @@ All code in Prisma Community Tutorials should be run by Prettier, whether in a c
 In addition to the standard Prettier configuration, Prisma Community Tutorials should also use the the following Prettier options:
 
 ```
-"prettier.singleQuote": true,
-"prettier.trailingComma": "all",
-"prettier.semi": false,
+{
+  "singleQuote": true,
+  "semi": false,
+  "trailingComma": "all"
+}
 ```
 
 
